@@ -196,8 +196,8 @@ The system creates **7 output files** per analysis:
 ### **Installation:**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-market-liquidity-analyser.git
-cd ai-market-liquidity-analyser
+git clone https://github.com/HC-Finance/ai-market-liquidity-intelligence-system.git
+cd ai-market-liquidity-intelligence-system
 
 # Run the Jupyter notebook
 jupyter notebook your_notebook.ipynb
