@@ -7,7 +7,7 @@
 
 ## 📋 Project Overview
 
-**AI Market Liquidity Analyser Intelligence System** is an open-source, Python-based financial market analysis tool designed for educational and research purposes. The system provides comprehensive liquidity analysis across multiple asset classes using historical market data from Yahoo Finance (yfinance).
+**AI Market Liquidity Intelligence System** is an open-source, Python-based financial market analysis tool designed for educational and research purposes. The system provides comprehensive liquidity analysis across multiple asset classes using historical market data from Yahoo Finance (yfinance).
 
 The tool analyses **60+ assets** including equity indices, sector ETFs, single stocks, fixed income instruments, forex pairs, commodities, derivatives, and cryptocurrencies from **2000 to present**. Users can input any trading date for analysis, making it valuable for historical market research and liquidity pattern recognition.
 
