@@ -249,9 +249,9 @@ This is a permissive license used by major companies like Microsoft, Facebook, a
 **Important**: This is a **"post and forget"** open-source project. The developer provides this tool for free and does not plan regular updates or feature additions.
 
 ### **Optional Appreciation:**
-If you find this tool valuable and want to show appreciation:
-- **GitHub Sponsors**: One-time or recurring donations
-- **Buy Me a Coffee**: Small appreciation payments
+If this tool helps you, consider supporting its development:
+- **[☕ Buy Me a Coffee](https://buymeacoffee.com/hchoudhury)** - One-time support
+- **[💙 PayPal](https://paypal.me/HChoudhury0)** - One-time or ongoing support
 
 ### **How Funds Could Potentially Be Used:**
 If sufficient appreciation is shown, it **could potentially** inspire:
