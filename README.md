@@ -232,18 +232,6 @@ This project demonstrates my ability to:
 
 Feel free to examine the code as an example of my work.
 
-## 📄 MIT License Explained
-
-**What the MIT License means for users:**
-- ✅ **Free forever**: No cost to use
-- ✅ **No restrictions**: Can be used for commercial or personal projects
-- ✅ **Can modify**: Users can adapt the code to their needs
-- ✅ **Can distribute**: Users can share their modified versions
-- ❌ **No warranty**: Provided "as is" without guarantees
-- 📝 **Simple requirement**: Just keep the original copyright notice
-
-This is a permissive license used by major companies like Microsoft, Facebook, and Google for their open-source projects.
-
 ## 💰 Optional Support (Post & Forget)
 
 **Important**: This is a **"post and forget"** open-source project. The developer provides this tool for free and does not plan regular updates or feature additions.
@@ -285,6 +273,18 @@ If sufficient appreciation is shown, it **could potentially** inspire:
 8. **Academic Focus**: This tool is designed for students, researchers, and hobbyists to learn about market analysis techniques, Python programming, and data science applications in finance.
 
 **By using this software, you acknowledge that you have read, understood, and agree to these terms. If you do not agree, do not use this software.**
+
+## 📄 MIT License Explained
+
+**What the MIT License means for users:**
+- ✅ **Free forever**: No cost to use
+- ✅ **No restrictions**: Can be used for commercial or personal projects
+- ✅ **Can modify**: Users can adapt the code to their needs
+- ✅ **Can distribute**: Users can share their modified versions
+- ❌ **No warranty**: Provided "as is" without guarantees
+- 📝 **Simple requirement**: Just keep the original copyright notice
+
+This is a permissive license used by major companies like Microsoft, Facebook, and Google for their open-source projects.
 
 ---
 
