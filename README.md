@@ -282,6 +282,14 @@ Simply run all cells in the notebook sequentially. No manual installation needed
 
 This is a **completed portfolio project** that I'm sharing publicly to demonstrate my skills.
 
+## 🌐 Live Dashboard
+
+**Note:** This project includes a web dashboard interface that GitHub cannot display properly.
+
+👉 **Experience the full interactive version:** [hamza-choudhury.github.io](https://hamza-choudhury.github.io)
+
+The live site showcases all interactive features, charts, and controls that make this project unique.
+
 ### Important Notes
 
 - ✅ **Functional & Complete**: The code works as shown
