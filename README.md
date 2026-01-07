@@ -251,38 +251,46 @@ The system creates **multiple output files** per analysis:
 
 ## 🚀 Usage Guide
 
-### **Prerequisites:**
+## 📋 Prerequisites
+
 - Python 3.8+
 - Internet connection (for data fetching)
 - 2GB RAM minimum
 - Jupyter Notebook environment
 
-### **Installation & Running:**
-```bash
-# The notebook will auto-install required packages:
-# yfinance, pandas, numpy, matplotlib, seaborn, scikit-learn
+## 🚀 Installation & Running
 
-# Simply run all cells in the notebook sequentially
-# No manual installation needed - everything is included
+The notebook will auto-install required packages:
+- yfinance
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
 
-### **Usage:**
+Simply run all cells in the notebook sequentially. No manual installation needed - everything is included.
+
+## 📖 Usage
+
 1. Run all cells in the notebook
 2. Enter a date when prompted (YYYY-MM-DD format)
 3. Wait ~2 minutes for processing
 4. View results in terminal and output files
 5. Check generated charts and reports
 
-## 📋 Project Status
+## 📊 Project Status
 
 This is a **completed portfolio project** that I'm sharing publicly to demonstrate my skills.
 
-### **Important Notes:**
+### Important Notes
+
 - ✅ **Functional & Complete**: The code works as shown
 - ⚠️ **No Planned Updates**: This is a finished project
 - 🚫 **No Support**: I won't be answering questions or providing help
 - 📚 **Educational Purpose**: For learning and demonstration only
 
-### **For Potential Employers:**
+### For Potential Employers
+
 This project demonstrates my ability to:
 - Build comprehensive financial analysis tools
 - Work with multiple data sources and APIs
@@ -297,6 +305,7 @@ Feel free to examine the code as an example of my work.
 ## 📄 MIT License Explained
 
 **What the MIT License means for users:**
+
 - ✅ **Free forever**: No cost to use
 - ✅ **No restrictions**: Can be used for commercial or personal projects
 - ✅ **Can modify**: Users can adapt the code to their needs
@@ -310,13 +319,17 @@ This is a permissive license used by major companies like Microsoft, Facebook, a
 
 **Important**: This is a **"post and forget"** open-source project. The developer provides this tool for free and does not plan regular updates or feature additions.
 
-### **Optional Appreciation:**
-If you find this tool valuable and want to show appreciation:
-- **PayPal: https://paypal.me/HChoudhury0**: One-time or recurring donations
-- **Buy Me A Coffee: https://buymeacoffee.com/hchoudhury**: Small appreciation payments
+### Optional Appreciation
 
-### **How Funds Could Potentially Be Used:**
+If you find this tool valuable and want to show appreciation:
+
+- **PayPal**: https://paypal.me/HChoudhury0 (One-time or recurring donations)
+- **Buy Me A Coffee**: https://buymeacoffee.com/hchoudhury (Small appreciation payments)
+
+### How Funds Could Potentially Be Used
+
 If sufficient appreciation is shown, it **could potentially** inspire:
+
 1. **Live Data APIs**: Integration of real-time data sources
 2. **Enhanced ML Models**: More sophisticated algorithms
 3. **Cloud Deployment**: Web interface version
@@ -326,7 +339,7 @@ If sufficient appreciation is shown, it **could potentially** inspire:
 
 ## ⚖️ Critical Legal Disclaimer
 
-### **FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY**
+### FOR EDUCATIONAL AND RESEARCH PURPOSES ONLY
 
 **THIS SOFTWARE IS NOT FINANCIAL ADVICE. USE AT YOUR OWN RISK.**
 
