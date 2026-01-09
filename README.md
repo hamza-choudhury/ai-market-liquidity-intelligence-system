@@ -11,6 +11,18 @@
 
 The tool analyses **60+ assets** including equity indices, sector ETFs, single stocks, fixed income instruments, forex pairs, commodities, derivatives, and cryptocurrencies from **2000 to present**. Users can input any trading date for analysis, making it valuable for historical market research and liquidity pattern recognition.
 
+## 📊 Project Status
+
+This is a **completed portfolio project** that I'm sharing publicly to demonstrate my skills.
+
+## 🌐 Live Dashboard
+
+**Note:** This project includes a web dashboard interface that GitHub cannot display properly.
+
+👉 **Experience the full interactive version:** [hamza-choudhury.github.io](https://hamza-choudhury.github.io)
+
+The live site showcases all interactive features, charts, and controls that make this project unique.
+
 ## 🎯 Key Features
 
 ### 1. **Multi-Asset Coverage**
@@ -277,18 +289,6 @@ Simply run all cells in the notebook sequentially. No manual installation needed
 3. Wait ~2 minutes for processing
 4. View results in terminal and output files
 5. Check generated charts and reports
-
-## 📊 Project Status
-
-This is a **completed portfolio project** that I'm sharing publicly to demonstrate my skills.
-
-## 🌐 Live Dashboard
-
-**Note:** This project includes a web dashboard interface that GitHub cannot display properly.
-
-👉 **Experience the full interactive version:** [hamza-choudhury.github.io](https://hamza-choudhury.github.io)
-
-The live site showcases all interactive features, charts, and controls that make this project unique.
 
 ### Important Notes
 
